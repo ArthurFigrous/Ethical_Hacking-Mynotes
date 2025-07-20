@@ -75,7 +75,6 @@ Today was about preparing the **playground** where all ethical hacking exercises
 ├── Day02/
 │   └── README.md  ← You are here
 ├── LabSetup/
-│   └── virtualbox_kali_install_guide.md (coming soon)
 ├── Tools/
 ├── Notes/
 └── References/
